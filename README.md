@@ -2,6 +2,10 @@
 
 This directory contains the core philosophical foundations of the DRIVER framework. Choose the resource that best matches your role and needs:
 
+> **⏰ Important**: These documents represent evolving thought - check file dates to understand the chronological development. Later documents often refine or expand earlier concepts.
+
+*Last Updated: October 19, 2025*
+
 ## 🎯 Quick Navigation by Audience
 
 ### 📚 **For Students**
@@ -10,6 +14,11 @@ This directory contains the core philosophical foundations of the DRIVER framewo
 - Features Joe's story: From median student to $90K starting salary
 - Explains the Intelligence vs. Wisdom paradox
 - *"In an age where intelligence is infinite and free, only wisdom commands a premium"*
+
+**Also See:** [DRIVER Tesla Metaphor Guide](./DRIVER_Tesla_Metaphor_Guide.md)
+- DRIVER as your "Tesla Owner's Manual" for AI
+- Accessible explanations using GPS and driving metaphors
+- Empowerment messaging: "Simple. Practical. Powerful."
 
 ### 🎓 **For Educators**
 **Start Here:** [DRIVER_Framework_Comprehensive_Documentation.md](./DRIVER_Framework_Comprehensive_Documentation.md)
@@ -25,6 +34,17 @@ This directory contains the core philosophical foundations of the DRIVER framewo
 - Evidence-based outcomes (100% placement rate)
 - Scalable framework for institutional adoption
 
+### 🏢 **For Business Leaders & Organizations**
+**Start Here:** [DRIVER Universal Overview](./DRIVER_Universal_Overview.md)
+- DRIVER as professional certification framework (like driver's license for AI)
+- Addresses organizational liability from untrained AI use
+- Implementation models: pilot → department → enterprise
+- ROI metrics and competitive advantage
+
+**Also See:** [DRIVER Tesla Metaphor Guide](./DRIVER_Tesla_Metaphor_Guide.md)
+- Accessible messaging for corporate training programs
+- Empowerment vs. fear narratives
+
 ### 💻 **For Developers**
 **Start Here:** [DRIVER Agent Configurations](../DRIVER-app/agents/)
 - `driver-framework-architect.md` - AI agent for educators
@@ -38,6 +58,12 @@ This directory contains the core philosophical foundations of the DRIVER framewo
 - Assignment templates
 - Assessment rubrics
 - Real-world implementation examples
+
+**Also See:** [DRIVER MVP Sharpened](./DRIVER_MVP_Sharpened.md)
+- Evolution to "Cognitive Amplification System" (thinking partnership platform)
+- System prompts and conversation patterns
+- Aspirational-before-constrained methodology
+- Cross-platform implementation (Claude, ChatGPT)
 
 ## 📖 Additional Resources
 
@@ -55,9 +81,9 @@ This directory contains the core philosophical foundations of the DRIVER framewo
 
 **"Teaching students not just to know, but how to DO in the 21st century—building wisdom through AI partnership, not despite it."**
 
-## 🚀 The DRIVER Promise
+## 🚀 The DRIVER Framework
 
-- **D**iscover & Design - First understand deeply, THEN leverage AI
+- **D**efine & Discover - First understand the problem and what you need to learn, THEN leverage AI
 - **R**epresent - Multiple perspectives before implementation
 - **I**mplement - Build with AI as your pair programmer, not ghost writer
 - **V**alidate - Never trust, always verify
