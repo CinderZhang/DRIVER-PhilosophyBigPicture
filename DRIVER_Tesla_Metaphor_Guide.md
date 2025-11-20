@@ -280,3 +280,7 @@
 ---
 
 *This document is part of the DRIVER™ Framework knowledge base. Use these metaphors to communicate the empowering, accessible nature of systematic AI training.*
+
+© 2024-2025 - DRIVER™ Framework available for educational and commercial implementation with attribution.
+DRIVER™ is a trademark of Cinder Zhang and Leo Zhang. All rights reserved.
+The DRIVER™ framework is granted to the Purdue University for educational instructions free of charge.
