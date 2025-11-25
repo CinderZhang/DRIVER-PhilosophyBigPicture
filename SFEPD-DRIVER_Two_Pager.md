@@ -1,20 +1,17 @@
 # **SFEPD x DRIVER: A Practical Path to Teaching Financial Decision-Making**
 
-"In 1998, I founded SFEPD because too many people—especially first-generation college students—learn critical financial skills too late, if at all." - Dr. Theodore R. Daniels, Founder & President of SFEPD
- 
-*I then consulted AI on what Dr. Theodore R. Daniels might say about this opportunity today:*
+*"In 1998, I founded SFEPD because too many people—especially first-generation college students—learn critical financial skills too late, if at all." - Dr. Theodore R. Daniels, Founder & President of SFEPD*
 
-*"Today, AI represents the same inflection point: those who master AI-enhanced financial decision-making early will unlock unprecedented economic mobility."*
-
+**"Today, AI represents the same inflection point. What is Dr. Theodore R. Daniels' vision for the future?"**
 ---
 
 # **WHY DRIVER™**
 
 **DRIVER-AI™** stands for the AI augmented problem solving system: **D**efine → **R**epresent → **I**mplement → **V**erify → **E**volve → **R**eflect
 
-## **1. Students Already Understand Financial Literacy. What They Lack Is Analytical Capability.**
+## **1. Students Understand Financial Literacy. What They Lack Is Analytical Capability.**
 
-Across the country, with SFEPD's financial literacy program,students can explain compound interest, debt payoff strategies, diversification, and credit factors. But they struggle to:
+Across the country, with SFEPD's financial literacy program, students can explain compound interest, debt payoff strategies, diversification, and credit factors. But they struggle to:
 
 * analyze their own financial data in a structured way
 * compare multiple scenarios quickly
@@ -59,7 +56,7 @@ Move from "I understand avalanche vs. snowball" to
 
 **Saving & Investing:**
 Move from "I know the power of compounding" to
-"I tested three savings strategies, saw the 10-year impact, and chose the optimal path."
+"I tested three savings and investment strategies, saw the 10-year impact, and chose the optimal path."
 
 **Credit:**
 Move from "Utilization matters" to
@@ -82,13 +79,13 @@ DRIVER serves as a modern capability that pairs naturally with what SFEPD alread
 
 The students in SFEPD programs today will graduate into a workforce where:
 
-* AI tools are embedded in everyday financial tasks
+* AI tools are embedded in everyday tasks
 * 60% of entry-level jobs expect basic data analysis skills
-* employers want candidates who can interpret financial information, not just memorize it
+* employers want candidates who can interpret financial information and data, not just memorize it
 
 Students who only receive literacy enter the workforce prepared conceptually but not competitively.
 
-DRIVER gives them just enough analytical fluency to:
+DRIVER gives them enough analytical fluency to:
 
 * Level the playing field with AI
 * Stand out to employers
@@ -99,24 +96,25 @@ DRIVER gives them just enough analytical fluency to:
 
 ## **6. The Only Question the Pilot Answers**
 
-**Does adding a simple, structured analytical method improve students' financial decision-making compared to literacy alone?**
+**Does adding a well structured AI augmented problem solving and learning system prepare students for better future?**
 
 ---
 
 ## **7. Why This Is Low-Risk and High-Value for SFEPD**
 
-DRIVER lets you **test** whether this analytical method enhances:
+With a small set of students, DRIVER lets you **test** whether the system enhances:
 
 * behavior change
 * workforce preparation
 * funder competitiveness
+* AI mindset development
 
 SFEPD keeps full ownership of its mission.
 DRIVER supplies an add-on AI capability students increasingly need.
 
 ---
 
-## **8. Strategic Payoff**
+## **8. Scenarios**
 
 If DRIVER works, SFEPD gains:
 
