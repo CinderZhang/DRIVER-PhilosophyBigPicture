@@ -116,7 +116,6 @@ Representative trajectory from participant data:
 - Do cognitive shifts persist beyond the intervention?
 
 **Validation Evidence:**
-- Teaching evaluations: 73rd-82nd percentile rankings
 - Student testimonials in anonymous teaching evaluation: "This class should be the gold standard for all of Purdue"
 - Career outcomes: Graduates placed at Goldman Sachs, JPMorgan, State Street, MasterCard, EY, Walmart Global Tech
 
