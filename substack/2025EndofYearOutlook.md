@@ -6,6 +6,8 @@
 
 As you finish this course and prepare for what comes next, I want to have an honest conversation about the world you're entering. Not the career fair version. Not the fear-mongering version. The real one.
 
+From my side of the lectern, it feels a little like watching my own kids pack up their dorm rooms. I see you stepping off this campus edge and into the wild, uncertain world with your ID badges still printing, and I'm both wildly excited and quietly nervous in the way only a proud parent can be. I trust the preparation, I believe in your instincts, and yet I still feel that flutter in my chest because I know how unpredictable this ride can be.
+
 ## The Shift That's Already Happening
 
 The numbers tell a story that's worth understanding clearly.
