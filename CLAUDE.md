@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ```bash
 date
 ```
-**Current as of this document: Sunday, October 19, 2025, 10:19 AM**
+**Current as of this document: Wednesday, December 3, 2025**
 
 Timeline and chronological evolution are CRITICAL in this repository. DRIVER is living, evolving intellectual architecture where insights build on each other. Never assume dates - always verify.
 
@@ -19,6 +19,54 @@ This is the **philosophical foundation and strategic thinking repository** for t
 **Critical Context**: This is a documentation folder capturing thought evolution. Timeline is paramount. Insights emerge, crystallize, and evolve. Later documents refine, sharpen, and sometimes pivot from earlier thinking.
 
 ## Document Chronology (Achronological - Newest First)
+
+### December 2025: Strategic Expansion & Academic Positioning
+**Files**:
+- `research/` folder (December 3, 2025) - **Complete Academic Research Program**:
+  - `00_Research_Master_Plan.md` - Comprehensive overview and roadmap
+  - `01_Academic_Positioning.md` - Literature positioning and narrative
+  - `02_Research_Design.md` - Methodology and identification strategy
+  - `03_Construct_Operationalization.md` - Variables and measurement
+  - `04_Survey_Instruments.md` - Complete validated instruments
+  - `05_Analysis_Plan.md` - Statistical analysis approach
+  - `06_Publication_Strategy.md` - Paper pipeline and journal targets
+- `ZhangCinder_CV-Promoting.md` (December 1, 2025)
+- `ZhangCinder_CV-Academic.md` (December 1, 2025)
+- `SFEPD-DRIVER_Two_Pager.md` (December 1, 2025)
+- `Research-Development-Plan-Cover-Letter.md` (December 1, 2025)
+
+**Key Evolution**: DRIVER reframed from teaching methodology to rigorous academic research program
+
+**Critical Intellectual Pivot**:
+- FROM: Pedagogical methodology / training framework / certification system
+- TO: Empirical research program on financial labor markets in the AI age
+
+**Major Developments**:
+- **Research Design**: Complete quasi-experimental longitudinal study with validated instruments (PSM + DiD identification)
+- **Construct Operationalization**: AI Mental Model Evolution, Cognitive Dependency vs. Capability, Prompt Engineering Skills
+- **Literature Positioning**: Bridges four literatures (Financial Labor Markets, AI & Professional Work, Human Capital Development, Technology-Mediated Learning)
+- **Publication Pipeline**: Four-paper strategy targeting Management Science, JFE, Organization Science, JEP
+- **Measurement Innovation**: "Unplugged Assessment" methodology - measuring performance with and without AI access
+- **MIT Sloan Application**: Joint appointment between Sloan and Schwarzman College of Computing
+- **Lilly Grant**: DSB's contribution to Purdue's $25M Lilly Endowment AI proposal
+- **SFEPD Partnership**: DRIVER as analytical capability layer on top of financial literacy education
+
+**Core Research Question**: "How do humans develop expertise when AI systems can perform expert-level cognitive tasks?"
+
+**Key Hypotheses**:
+- H1: Structured AI collaboration builds analytical capabilities rather than creating dependency
+- H2: Treatment effects concentrated among participants who develop "cognitive partner" mental models
+- H3: Prompt engineering skill development mediates intervention effects
+- H4: Deep learning orientation amplifies training benefits; technology anxiety attenuates them
+
+### November 2025: Institutional Grant Positioning
+**File**: `LillyGrant.md` (November 19, 2025)
+
+**Key Arguments**:
+- DSB has working solution while most schools still debate AI policies
+- 300+ students, 3 textbooks, Teaching Innovation Awards
+- "We upgrade people while others update their software"
+- Planning grant deadline: December 1, 2025
 
 ### October 2025: Technical Implementation Maturity
 **File**: `DRIVER_MVP_Sharpened.md` (October 5, 2025)
@@ -336,18 +384,26 @@ Each must include clear legend, explicit interpretation, specific insights revea
 - Median student → $90K starting salary
 - Students leading AI initiatives, teaching senior analysts
 - Creating new roles/companies (Joe → AI Foundry co-founder)
+- **280-300+ students** across Financial Data Analytics I&II, Financial Modeling, Financial Management
+- **81% positive student feedback** (Financial Data Analytics I&II, Financial Modeling)
+- **Three textbooks** under contract with World Scientific Publishing (October 2025)
 
 **Cognitive Outcomes**:
 - >90% build functional tools from scratch
 - >80% explain complex concepts without AI assistance
 - >80% identify flaws in AI-generated outputs
 - Improved independent judgment while using AI
+- Longitudinal survey data tracking cognitive development at Weeks 3-4, 8-9, and 16
 
 **Professional Outcomes**:
 - Students interview better (Joe spent 45 minutes just on classes)
 - Only intern among master's candidates to get return offer
 - Lead teams despite less experience
 - Create systems that solve problem categories, not just individual problems
+- Placements at Goldman Sachs, JPMorgan, State Street, MasterCard
+
+**Research Validation**:
+- AI agentic research teams matching/exceeding equity analysts (mean difference = 0.272, t = 3.17, p < 0.01) - R&R at Finance Research Letters
 
 ### Revenue/Impact Models
 
@@ -370,6 +426,11 @@ Each must include clear legend, explicit interpretation, specific insights revea
 - MVP_Sharpened suggests SaaS thinking partnership platform
 - Cognitive amplification as service
 - Subscription model for systematic decision support
+
+**Institutional Partnerships (Active December 2025)**:
+- **Lilly Endowment**: Up to $25M AI in Higher Education initiative - DRIVER as DSB's contribution
+- **SFEPD Partnership**: Financial literacy + analytical capability layer for underserved students
+- **Academic Positioning**: MIT Sloan + Schwarzman College joint appointment application
 
 ### Market Timing
 
@@ -506,13 +567,28 @@ When analyzing DRIVER, bring these lenses simultaneously:
 
 ```
 DRIVER-PhilosophyBigPicture/
-├── DRIVER_MVP_Sharpened.md                          (Oct 5, 2025)  - Latest: Technical maturity
+├── research/                                        (Dec 3, 2025)  - **Complete Academic Research Program**
+│   ├── 00_Research_Master_Plan.md                   - Comprehensive overview and roadmap
+│   ├── 01_Academic_Positioning.md                   - Literature positioning and narrative
+│   ├── 02_Research_Design.md                        - Methodology and identification strategy
+│   ├── 03_Construct_Operationalization.md           - Variables and measurement
+│   ├── 04_Survey_Instruments.md                     - Complete validated instruments
+│   ├── 05_Analysis_Plan.md                          - Statistical analysis approach
+│   ├── 06_Publication_Strategy.md                   - Paper pipeline and journal targets
+│   └── archive/                                     - Earlier draft versions
+├── studentfeedback/                                 - Student feedback CSV data (research data)
+├── ZhangCinder_CV-Promoting.md                      (Dec 1, 2025)  - Promotion portfolio
+├── ZhangCinder_CV-Academic.md                       (Dec 1, 2025)  - Academic CV
+├── SFEPD-DRIVER_Two_Pager.md                        (Dec 1, 2025)  - Financial literacy partnership
+├── Research-Development-Plan-Cover-Letter.md        (Dec 1, 2025)  - MIT Sloan application
+├── LillyGrant.md                                    (Nov 19, 2025) - $25M Lilly Endowment positioning
+├── DRIVER_Universal_Overview.md                     (Nov 15, 2025) - Certification framework
+├── DRIVER_Tesla_Metaphor_Guide.md                   (Nov 14, 2025) - Accessible positioning
+├── DRIVER_MVP_Sharpened.md                          (Oct 19, 2025) - Technical maturity
 ├── DRIVER_DOE_Comment_Final_2025.md                 (Sep 26, 2025) - Policy advocacy
-├── DRIVER_Tesla_Metaphor_Guide.md                   (Sep 23, 2025) - Accessible positioning
-├── DRIVER_Universal_Overview.md                     (Sep 23, 2025) - Certification framework
 ├── DRIVER_Framework_Comprehensive_Documentation.md  (Aug 16, 2025) - Complete architecture
 ├── DRIVER_Framework_Updated_Define_Discover.md      (Aug 16, 2025) - First stage refinement
-├── README.md                                        (Jul 31, 2025) - Navigation hub
+├── README.md                                        (Oct 19, 2025) - Navigation hub
 ├── Intro2DRIVER_Opening_Talk.md                     (Jul 30, 2025) - Student transformation
 └── CLAUDE.md                                        (This file)
 ```
@@ -535,5 +611,6 @@ This is not just another ed-tech project. This is potentially **the cognitive op
 ---
 
 **Document created**: Sunday, October 19, 2025, 10:19 AM
-**Last verified current date**: Sunday, October 19, 2025, 10:19 AM
+**Last updated**: Wednesday, December 3, 2025
 **Core philosophy**: "In an age where intelligence is infinite and free, only wisdom commands a premium."
+**New research question**: "How do humans develop expertise when AI systems can perform expert-level cognitive tasks?"
